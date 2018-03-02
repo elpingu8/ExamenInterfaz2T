@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_alumni"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/laptop-chromebook"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/book-open-page-variant"
+        android:title="Item2"
+        app:showAsAction="always"/>
+
+</menu>

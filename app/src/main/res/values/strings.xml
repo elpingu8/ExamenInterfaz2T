@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenInterfaz</string>
+    <string name="subtitle">UEM handycrafted</string>
+    <string name="descripcion">Del 11 al 14 de diciembre, en el Campus
+        de Villaviciosa de Odon, participa en el
+        Mercadillo Solidario de Libros organizado
+        por la Biblioteca CRAI Dulce Chacón.</string>
+    <string name="action_alumni">Alumni</string>
+    <string name="action_perfil">Perfil</string>
+</resources>
