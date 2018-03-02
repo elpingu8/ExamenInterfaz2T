@@ -10,12 +10,12 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/camera"
-        android:icon="@drawable/laptop-chromebook"
+        android:icon="@drawable/laptop"
         android:title="Item"
         app:showAsAction="always" />
     <item
         android:id="@+id/book"
-        android:icon="@drawable/book-open-page-variant"
+        android:icon="@drawable/book"
         android:title="Item2"
         app:showAsAction="always"/>
 
